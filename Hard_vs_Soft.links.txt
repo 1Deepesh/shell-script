@@ -1,0 +1,9 @@
+Hardlinks : same inode number as the oroginal file.
+if you remove the source file, nothing will happen to hardlinks.
+think of hardlinks like the copy paste.
+but with one advantage, that is the changes made toeither files will be reflected on both of them.
+
+
+Softlinks: shortcut. delete sourcefile, softlink os of no use.
+
+
